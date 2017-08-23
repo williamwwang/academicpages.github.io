@@ -8,13 +8,4 @@ date: 2017-01-01
 location: "Berkeley, CA"
 ---
 
-Discrete Mathematics and Probability Theory, Spring 2017, Fall 2017.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Discrete Mathematics and Probability Theory: Spring/Fall 2017.
